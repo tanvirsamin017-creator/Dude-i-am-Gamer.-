@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dude I am Gamer - DUDE'S PANEL</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+<style>
+body {
+    background-color: #0d0d0d;
+    font-family: Arial, sans-serif;
+    color: #fff;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+img.logo {
+    width: 180px;
+    height: 180px;
+    margin-top: 20px;
+    border-radius: 50%;
+    object-fit: cover;
+    animation: logoBounce 2s infinite;
+}
+@keyframes logoBounce {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-15px); }
+}
+h1 {
+    font-size: 2.2em;
+    margin: 10px 0 0;
+    color: #FFD700;
+}
+h2 {
+    font-size: 1.5em;
+    color: #FFA500;
+    margin-bottom: 25px;
+}
+.link-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    width: 85%;
+    max-width: 400px;
+    margin: 12px auto;
+    padding: 14px;
+    background: linear-gradient(90deg, #FFD700, #FF8C00);
+    color: black;
+    font-size: 1.1em;
+    font-weight: bold;
+    border: none;
+    border-radius: 12px;
+    text-decoration: none;
+    box-shadow: 0 4px 10px rgba(255, 215, 0, 0.4);
+    transition: transform 0.3s, box-shadow 0.3s, background 0.3s;
+}
+.link-btn i {
+    font-size: 1.3em;
+}
+.link-btn:hover {
+    transform: translateY(-5px) scale(1.05);
+    box-shadow: 0 6px 20px rgba(255, 215, 0, 0.7);
+    background: linear-gradient(90deg, #FF8C00, #FFD700);
+}
+</style>
+</head>
+<body>
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7sk5O-anhVi1lGNHCWHGWk0M67Nn3I3teC5IAhUG0SJvpxJc22CnJJbKOe6dFqbiVSQxo0edznJ7qx32rCqf8XLCo6w0aTDaxpHVQbRVhG2i1lDLXfZ7o8CQjyFbaeTMXUhIAkrW90Jn0w-SyBf-f2jNE2EhMV2Sjc2QJmSzvJ2TYiXQ8zNxNg6jXhhc/s4096/1000040907.jpg" alt="Dude's Panel Logo" class="logo">
+<h1>Dude I am Gamer</h1>
+<h2>DUDE'S PANEL</h2>
+<a class="link-btn" href="https://www.facebook.com/share/16TzQ4vqun/" target="_blank"><i class="fab fa-facebook-f"></i> Facebook Page</a>
+<a class="link-btn" href="https://youtube.com/@dudeiamgamer?si=wOmEnSw5od4qh5QI" target="_blank"><i class="fab fa-youtube"></i> YouTube Channel</a>
+<a class="link-btn" href="https://wa.me/8801608645082" target="_blank"><i class="fab fa-whatsapp"></i> WhatsApp Contact</a>
+<a class="link-btn" href="https://chat.whatsapp.com/Lr7sPYvHPpu1YT8Y3z8Jup" target="_blank"><i class="fab fa-whatsapp"></i> Dude's Panel WhatsApp Group</a>
+<a class="link-btn" href="https://m.me/j/AbYmFz6IdghQwOX9/" target="_blank"><i class="fab fa-facebook-messenger"></i> Messenger Group</a>
+<a class="link-btn" href="https://discord.gg/nfa54Unj2Q" target="_blank"><i class="fab fa-discord"></i> Discord Server</a>
+<a class="link-btn" href="https://whatsapp.com/channel/0029Vb5e3zyGufIopvh2NR14" target="_blank"><i class="fab fa-whatsapp"></i> WhatsApp Channel</a>
+<a class="link-btn" href="https://youtu.be/TGKQpDg3IuI?si=4jWsX3_Ihnw5jufX" target="_blank"><i class="fas fa-video"></i> DUDE'S PREMIUM PANEL v3 SETUP VIDEO</a>
+<a class="link-btn" href="https://drive.google.com/file/d/1LsMFkY46v4xbh0LcoYnPQSPPbThhAT0o/view?usp=drivesdk" target="_blank"><i class="fas fa-download"></i> DOWNLOAD: DUDE'S PREMIUM PANEL v3</a>
+<a class="link-btn" href="https://youtu.be/OR1avJpVOhU?si=lTqiGSx6obpDaOH_" target="_blank"><i class="fas fa-gamepad"></i> Free Fire Setup Video</a>
+<a class="link-btn" href="https://drive.google.com/file/d/1DPledXF0nCRfprnZZmS2HlUeaPfepKPc/view?usp=sharing" target="_blank"><i class="fas fa-download"></i> Free Fire Download Link</a>
+<a class="link-btn" href="https://cdn.discordapp.com/attachments/1177635929616293979/1348160850824921158/Fix_64_bit_Location.rar" target="_blank"><i class="fas fa-map-marker-alt"></i> Location Fix 64 Bit Emulator</a>
+<a class="link-btn" href="https://drive.google.com/file/d/179o-sIRrmmNgfPa5rnyx2MAZoQ-5UkST/view?usp=sharing" target="_blank"><i class="fas fa-file-alt"></i> Requirement File</a>
+</body>
+</html>
